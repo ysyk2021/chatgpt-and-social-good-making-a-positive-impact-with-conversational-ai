@@ -1,5 +1,3 @@
-Chapter 1: Basics of Social Good
-================================
 
 Social good refers to actions and initiatives that aim to create positive impact in society, addressing social issues such as poverty, inequality, and discrimination. In this chapter, we will explore the basics of social good, including its definition, different types of social issues, and the importance of addressing these issues for the betterment of society.
 
@@ -32,5 +30,4 @@ Conclusion
 ----------
 
 Social good initiatives are essential for creating positive change in society. By addressing social issues such as poverty, inequality, and discrimination, individuals and organizations can promote equity and justice, foster social cohesion, improve health and well-being outcomes, and contribute to economic growth and stability. Understanding the basics of social good is an important step in creating a better future for all.
-
 

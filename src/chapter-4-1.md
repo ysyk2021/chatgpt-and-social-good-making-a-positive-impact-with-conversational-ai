@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-======================================================================================
 
 Artificial intelligence (AI) and chatbots are rapidly transforming many industries, including social good initiatives. In this chapter, we will provide an introduction to AI and chatbots and how they can be used for social good.
 
@@ -24,5 +22,4 @@ Conclusion
 ----------
 
 AI and chatbots represent exciting opportunities for social good initiatives. By leveraging these technologies, social good organizations can provide more personalized support, increase accessibility to valuable resources and information, improve efficiency, and drive innovation. However, it is important to ensure that these technologies are implemented ethically and responsibly, with careful consideration given to issues such as privacy and bias.
-
 

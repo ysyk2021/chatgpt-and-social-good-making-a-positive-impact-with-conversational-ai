@@ -1,5 +1,3 @@
-Case Studies of Organizations that have Successfully Implemented ChatGPT for Social Good
-=========================================================================================================================================
 
 In this chapter, we will explore case studies of organizations that have successfully implemented ChatGPT for social good applications.
 

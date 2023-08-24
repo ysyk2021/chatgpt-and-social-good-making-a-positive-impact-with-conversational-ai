@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 In this book, we have explored the important role that conversational AI, specifically ChatGPT, can play in making a positive impact in social good. From improving mental health support to enhancing education and increasing access to information, ChatGPT has the potential to transform many areas of social good.
 

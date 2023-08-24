@@ -1,5 +1,3 @@
-Factors Affecting Social Issues
-==================================================================================
 
 Social issues such as poverty, inequality, and discrimination are complex problems that have significant impacts on individuals and communities around the world. Understanding the factors that contribute to these social issues is an important step in addressing them effectively. In this chapter, we will explore some of the key factors that contribute to social issues.
 
@@ -32,5 +30,4 @@ Conclusion
 ----------
 
 Social issues are complex problems that arise from a variety of factors. Economic, political, social, environmental, and historical factors can all contribute to social issues such as poverty, inequality, and discrimination. Understanding these factors is an important step in addressing social issues effectively. By addressing the root causes of social issues, social good initiatives can create meaningful and sustainable change for individuals and communities.
-
 

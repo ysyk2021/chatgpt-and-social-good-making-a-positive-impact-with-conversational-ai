@@ -1,8 +1,3 @@
-How ChatGPT can be used for creating positive impact in social good
-=====================================================================================================
-
-Introduction
-------------
 
 ChatGPT is an advanced conversational AI model that has the potential to create significant positive impacts in social good applications. In this chapter, we will explore how ChatGPT works and how it can be utilized for social good.
 

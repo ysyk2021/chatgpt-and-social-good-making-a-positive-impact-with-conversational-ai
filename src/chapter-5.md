@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 ChatGPT is a powerful conversational AI tool that can be used to create positive impact in social good. In this chapter, we will explore what ChatGPT is, its features and capabilities, and how it can be used for social good.
 

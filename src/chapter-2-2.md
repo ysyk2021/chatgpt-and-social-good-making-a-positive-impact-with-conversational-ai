@@ -1,5 +1,3 @@
-Different Types of Social Issues
-==================================================================
 
 Social issues are complex problems that affect individuals and communities around the world. Addressing social issues is an essential component of social good initiatives. In this chapter, we will explore some common types of social issues and their impact on society.
 

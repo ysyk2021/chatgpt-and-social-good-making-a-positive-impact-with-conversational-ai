@@ -1,5 +1,3 @@
-The Role of ChatGPT in Creating Positive Impact through Conversational AI
-=======================================================================================
 
 Conversational AI, such as ChatGPT, has the potential to create positive impact and address social issues in innovative ways. In this book, we will explore how ChatGPT can be used for social good initiatives and the role it can play in creating positive change.
 

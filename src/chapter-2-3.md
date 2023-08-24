@@ -1,5 +1,3 @@
-Importance of Addressing Social Issues for the Betterment of Society
-======================================================================================================
 
 Social good refers to actions and initiatives that aim to create positive impact in society, addressing social issues such as poverty, inequality, and discrimination. In this chapter, we will explore the basics of social good, the importance of addressing social issues, and the benefits of social good initiatives for the betterment of society.
 

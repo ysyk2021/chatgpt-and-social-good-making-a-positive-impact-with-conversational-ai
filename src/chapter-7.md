@@ -1,5 +1,3 @@
-Chapter 6: Future of Social Good with ChatGPT
-=============================================
 
 Potential Advancements in Social Good with ChatGPT
 --------------------------------------------------

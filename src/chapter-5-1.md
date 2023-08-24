@@ -1,8 +1,3 @@
-What is ChatGPT?
-==================================================
-
-Introduction
-------------
 
 ChatGPT is a state-of-the-art conversational AI model developed by OpenAI. It uses deep learning algorithms to generate human-like responses to text-based inputs. In this chapter, we will explore what ChatGPT is and how it works.
 

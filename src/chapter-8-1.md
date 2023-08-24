@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we explored the potential of ChatGPT to create positive impacts in social good through conversational AI. We discussed its features and capabilities, steps to implement ChatGPT for social good, best practices for using ChatGPT in addressing social issues, and case studies of organizations that have successfully implemented ChatGPT for social good.
 

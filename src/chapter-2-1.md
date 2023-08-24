@@ -1,5 +1,3 @@
-Definition of Social Good
-===========================================================
 
 Social good refers to actions and initiatives that aim to create positive impact in society, addressing social issues such as poverty, inequality, and discrimination. In this chapter, we will explore the definition of social good and its importance in creating a better future for all.
 

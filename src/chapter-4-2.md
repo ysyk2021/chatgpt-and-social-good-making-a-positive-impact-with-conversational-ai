@@ -1,5 +1,3 @@
-How AI and chatbots can create positive impact for social good
-=====================================================================================================================
 
 Artificial intelligence (AI) and chatbots have the potential to revolutionize social good initiatives. In this chapter, we will explore the role of AI and chatbots in creating positive impact for social good.
 
