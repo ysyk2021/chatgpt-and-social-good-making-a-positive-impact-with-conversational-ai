@@ -14,3 +14,7 @@ Our objectives for this book are to:
 Whether you're a nonprofit organization or an individual interested in making a difference, this book will provide valuable insights into how ChatGPT-powered conversational AI can transform your approach to social good initiatives. By exploring the different applications of AI in social impact, understanding machine learning techniques for personalization, and examining ethical considerations, readers will be better equipped to navigate the rapidly changing landscape of the social good industry.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
