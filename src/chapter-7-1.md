@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in Social Good with ChatGPT
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the potential advancements that can be achieved in the realm of social good through further development and utilization of ChatGPT, a conversational AI technology. By leveraging its capabilities and embracing innovative approaches, we can unlock new opportunities for positive impact in various social domains.
 

@@ -1,5 +1,4 @@
-Chapter: Conclusion and Future Outlook
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This final chapter concludes the book "ChatGPT and Social Good: Making a Positive Impact with Conversational AI" by summarizing key insights and discussing the future outlook for ChatGPT in social good initiatives. It highlights the tremendous potential of conversational AI while acknowledging the challenges that lie ahead.
 

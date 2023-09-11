@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the features and capabilities of ChatGPT, a conversational AI technology that has the potential to make a positive impact in social good initiatives. By understanding its core functionalities, we can leverage ChatGPT effectively to address various social challenges and provide meaningful support to individuals and communities.
 

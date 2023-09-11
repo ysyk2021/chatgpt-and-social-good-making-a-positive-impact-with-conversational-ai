@@ -1,5 +1,4 @@
-Chapter: Case Studies of Organizations that have Successfully Implemented ChatGPT for Social Good
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter highlights real-world examples of organizations that have effectively implemented ChatGPT to make a positive impact on social issues. These case studies demonstrate the potential and versatility of conversational AI in addressing various challenges and fostering social good.
 

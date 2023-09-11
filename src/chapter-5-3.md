@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Be Used for Creating Positive Impact in Social Good
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the various ways in which ChatGPT, a conversational AI technology, can be harnessed to create a positive impact in social good initiatives. By leveraging its capabilities, organizations and individuals can address social challenges more effectively and make a difference in people's lives.
 

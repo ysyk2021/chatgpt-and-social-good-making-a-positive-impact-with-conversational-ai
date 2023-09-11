@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in Social Good and ChatGPT
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter examines the emerging trends and challenges that arise when applying ChatGPT, a conversational AI technology, to social good initiatives. While ChatGPT holds great promise for positive impact, it is essential to recognize and address these trends and challenges to effectively leverage its potential.
 

@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Individuals and Organizations
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the common challenges that individuals and organizations may encounter when utilizing ChatGPT for social good initiatives. By understanding these challenges, we can better prepare ourselves to overcome obstacles and maximize the potential benefits of conversational AI in creating positive impact.
 

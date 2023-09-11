@@ -1,5 +1,4 @@
-Chapter: Different Types of Social Issues
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the diverse types of social issues that exist in society. By understanding and categorizing these issues, we can better identify areas where conversational AI, such as ChatGPT, can play a role in addressing them for social good.
 

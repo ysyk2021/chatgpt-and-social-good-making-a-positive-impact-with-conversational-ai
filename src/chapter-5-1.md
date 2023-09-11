@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter provides an overview of ChatGPT, a conversational AI model that has the potential to make a positive impact in social good initiatives. We will explore what ChatGPT is, how it works, and its application in various contexts.
 

@@ -1,5 +1,4 @@
-Chapter: Benefits of Using AI and Chatbots for Addressing Social Issues
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the numerous benefits of utilizing AI and chatbots to address social issues effectively. By leveraging these technologies, organizations and individuals can make a positive impact on society in various domains.
 

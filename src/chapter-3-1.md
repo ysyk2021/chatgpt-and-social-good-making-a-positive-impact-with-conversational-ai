@@ -1,5 +1,4 @@
-Chapter: Factors Affecting Social Issues
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the various factors that can influence social issues and how the application of ChatGPT and conversational AI can contribute to understanding and addressing these challenges. By examining these factors, we can develop a deeper understanding of the complexities involved and identify opportunities for positive impact.
 

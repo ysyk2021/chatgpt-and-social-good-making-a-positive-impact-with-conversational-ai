@@ -1,5 +1,4 @@
-Chapter: Importance of Addressing Social Issues for the Betterment of Society
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter highlights the significance of addressing social issues for the betterment of society and explores how conversational AI, specifically ChatGPT, can contribute to positive change in this regard.
 

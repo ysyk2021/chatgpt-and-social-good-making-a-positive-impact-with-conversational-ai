@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Create Positive Impact for Social Good
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the ways in which AI and chatbots can create a positive impact for social good. By harnessing the power of conversational AI, organizations and individuals can address social challenges effectively and make a difference in various domains.
 

@@ -1,5 +1,4 @@
-Chapter: Definition of Social Good
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter delves into the definition of social good and explores its significance in the context of leveraging conversational AI and ChatGPT for positive impact.
 

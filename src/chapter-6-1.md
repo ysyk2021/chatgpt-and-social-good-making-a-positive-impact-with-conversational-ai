@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT for Social Good
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter outlines a step-by-step guide to implementing ChatGPT for social good. By following these steps, organizations and developers can effectively leverage conversational AI to address social challenges and make a positive impact on society.
 

@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Society
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter delves into the potential impact that the challenges faced in applying ChatGPT to social good initiatives can have on society. While ChatGPT holds immense promise for positive change, it is crucial to understand and address the consequences that these challenges may have on various aspects of society.
 
